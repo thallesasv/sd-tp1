@@ -16,9 +16,9 @@
 #include <limits.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 #include <sys/types.h>
 #include <sys/wait.h>
-#include <time.h>
 #include <unistd.h>
 
 #define MSG_SIZE 20
@@ -27,6 +27,7 @@
 
 int consumer_loop(int read_fd);
 
+/* Garantir escrita completa de cada mensagem fixa no pipe. */
 static ssize_t write_full(int fd, const void *buf, size_t count) {
     const char *p = (const char *)buf;
     size_t total = 0;
@@ -45,6 +46,19 @@ static ssize_t write_full(int fd, const void *buf, size_t count) {
     return (ssize_t)total;
 }
 
+static double elapsed_seconds(const struct timespec *start, const struct timespec *end) {
+    time_t sec = end->tv_sec - start->tv_sec;
+    long nsec = end->tv_nsec - start->tv_nsec;
+
+    if (nsec < 0) {
+        --sec;
+        nsec += 1000000000L;
+    }
+
+    return (double)sec + (double)nsec / 1000000000.0;
+}
+
+/* Serializa cada numero em exatamente 20 bytes (19 digitos + '\0'). */
 static int send_number(int fd, unsigned long long value) {
     char msg[MSG_SIZE];
     int rc = snprintf(msg, sizeof(msg), "%019llu", value);
@@ -75,6 +89,14 @@ int main(int argc, char *argv[]) {
         return EXIT_FAILURE;
     }
 
+    struct timespec start_time;
+    if (clock_gettime(CLOCK_MONOTONIC, &start_time) < 0) {
+        perror("clock_gettime");
+        close(pipefd[0]);
+        close(pipefd[1]);
+        return EXIT_FAILURE;
+    }
+
     pid_t pid = fork();
     if (pid < 0) {
         perror("fork");
@@ -95,7 +117,17 @@ int main(int argc, char *argv[]) {
     unsigned long long atual = 1ULL;
     unsigned int seed = (unsigned int)(time(NULL) ^ (unsigned int)getpid());
 
-    for (unsigned long long i = 0ULL; i < quantidade; ++i) {
+    /* O protocolo usa 0 como sentinela, entao envia N0=1 quando quantidade > 0. */
+    if (quantidade > 0ULL) {
+        if (send_number(pipefd[1], atual) < 0) {
+            perror("write");
+            close(pipefd[1]);
+            waitpid(pid, NULL, 0);
+            return EXIT_FAILURE;
+        }
+    }
+
+    for (unsigned long long i = 1ULL; i < quantidade; ++i) {
         unsigned long long delta = (unsigned long long)((rand_r(&seed) % DELTA_MAX) + DELTA_MIN);
 
         if (ULLONG_MAX - atual < delta) {
@@ -134,6 +166,15 @@ int main(int argc, char *argv[]) {
         fprintf(stderr, "Consumidor terminou com erro\n");
         return EXIT_FAILURE;
     }
+
+    struct timespec end_time;
+    if (clock_gettime(CLOCK_MONOTONIC, &end_time) < 0) {
+        perror("clock_gettime");
+        return EXIT_FAILURE;
+    }
+
+    /* Tempo total inclui geracao, IPC e processamento no consumidor. */
+    printf("Tempo total de execucao: %.6f s\n", elapsed_seconds(&start_time, &end_time));
 
     return EXIT_SUCCESS;
 }

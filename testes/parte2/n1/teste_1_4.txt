@@ -1,0 +1,2 @@
+Consumidor: 36 -> nao primo
+Tempo total de execucao: 0.000207 s

@@ -3,7 +3,6 @@ Professora: Michelle Hanne
 Trabalho Prático 1
 2026/1
 
-1
 
 Objetivos
 
@@ -19,7 +18,7 @@ Além da implementação, você deve testar seu programa, rodando os estudos de 
 com as decisões de projeto e implementação das funcionalidades especificadas, assim como a avaliação dos estudos de caso. O relatório deve conter a
 URL para o código-fonte da sua implementação. O trabalho pode ser realizado em dupla.
 
-2
+
 
 Pipes
 
@@ -36,7 +35,7 @@ N0 = 1,
 
 ∆ ∈ [1, 100].
 
-O programa consumidor deve receber o número e verificar se o mesmo
+O programa consumidor deve receber o número e verificar se o mesmo
 é primo, imprimindo o resultado no terminal. Seu programa deve primeiramente criar um pipe e depois fazer um fork() para duplicar o processo, de
 forma que os dois processos (pai e filho) tenham as duas respectivas pontas
 do pipe (write end e read end ).
@@ -49,7 +48,7 @@ Dica: converta o número para uma string de tamanho fixo, por exemplo,
 mensagem.
 Teste o seu programa mostrando seu funcionamento para alguns casos.
 
-3
+
 
 Produtor-Consumidor com Semáforos
 
@@ -68,13 +67,13 @@ uma posição de memória livre, e uma thread consumidor aguarda até que
 haja uma posição de memória ocupada. Utilize semáforos contadores para
 esta coordenação, como visto em aula.
 Para o estudo de caso, considere que o programa termina sua execução
-após o consumidor processar M = 105 números. Considere ainda os valores
+após o consumidor processar M = 10^5 números. Considere ainda os valores
 N = 1, 10, 100, 1000, com os seguintes combinações de número de threads
 produtor/consumidor:
 (Np , Nc ) ∈ {(1, 1), (1, 2), (1, 4), (1, 8), (2, 1), (4, 1), (8, 1)}.
-2
 
-Para cada combinação de parâmetros, obtenha o tempo de execução do
+
+Para cada combinação de parâmetros, obtenha o tempo de execução do
 seu programa, rodando o programa 10 vezes para calcular o tempo médio
 de execução. Apresente um gráfico mostrando o tempo médio de execução
 em função do número de threads produtor/consumidor para cada valor de N
@@ -84,7 +83,3 @@ buffer compartilhado ao longo do tempo. Para gerar o gráfico, utilize um
 vetor que armazena a ocupação do buffer após cada operação de produção
 ou consumo. Ao final, use o vetor para gerar o gráfico (ou arquivo).
 O que você pode concluir em cada um dos casos?
-
-3
-
-

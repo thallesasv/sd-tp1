@@ -1,0 +1,1001 @@
+Consumidor: 41 -> primo
+Consumidor: 69 -> nao primo
+Consumidor: 165 -> nao primo
+Consumidor: 218 -> nao primo
+Consumidor: 280 -> nao primo
+Consumidor: 367 -> primo
+Consumidor: 422 -> nao primo
+Consumidor: 449 -> primo
+Consumidor: 457 -> primo
+Consumidor: 487 -> primo
+Consumidor: 495 -> nao primo
+Consumidor: 588 -> nao primo
+Consumidor: 590 -> nao primo
+Consumidor: 638 -> nao primo
+Consumidor: 659 -> primo
+Consumidor: 693 -> nao primo
+Consumidor: 697 -> nao primo
+Consumidor: 778 -> nao primo
+Consumidor: 823 -> primo
+Consumidor: 918 -> nao primo
+Consumidor: 1004 -> nao primo
+Consumidor: 1025 -> nao primo
+Consumidor: 1094 -> nao primo
+Consumidor: 1125 -> nao primo
+Consumidor: 1207 -> nao primo
+Consumidor: 1265 -> nao primo
+Consumidor: 1337 -> nao primo
+Consumidor: 1393 -> nao primo
+Consumidor: 1482 -> nao primo
+Consumidor: 1541 -> nao primo
+Consumidor: 1639 -> nao primo
+Consumidor: 1655 -> nao primo
+Consumidor: 1683 -> nao primo
+Consumidor: 1764 -> nao primo
+Consumidor: 1773 -> nao primo
+Consumidor: 1795 -> nao primo
+Consumidor: 1858 -> nao primo
+Consumidor: 1931 -> primo
+Consumidor: 1941 -> nao primo
+Consumidor: 1998 -> nao primo
+Consumidor: 2085 -> nao primo
+Consumidor: 2104 -> nao primo
+Consumidor: 2162 -> nao primo
+Consumidor: 2175 -> nao primo
+Consumidor: 2266 -> nao primo
+Consumidor: 2366 -> nao primo
+Consumidor: 2402 -> nao primo
+Consumidor: 2490 -> nao primo
+Consumidor: 2555 -> nao primo
+Consumidor: 2569 -> nao primo
+Consumidor: 2599 -> nao primo
+Consumidor: 2670 -> nao primo
+Consumidor: 2748 -> nao primo
+Consumidor: 2840 -> nao primo
+Consumidor: 2911 -> nao primo
+Consumidor: 2981 -> nao primo
+Consumidor: 2984 -> nao primo
+Consumidor: 3057 -> nao primo
+Consumidor: 3103 -> nao primo
+Consumidor: 3128 -> nao primo
+Consumidor: 3166 -> nao primo
+Consumidor: 3171 -> nao primo
+Consumidor: 3267 -> nao primo
+Consumidor: 3331 -> primo
+Consumidor: 3403 -> nao primo
+Consumidor: 3448 -> nao primo
+Consumidor: 3464 -> nao primo
+Consumidor: 3496 -> nao primo
+Consumidor: 3504 -> nao primo
+Consumidor: 3599 -> nao primo
+Consumidor: 3635 -> nao primo
+Consumidor: 3689 -> nao primo
+Consumidor: 3761 -> primo
+Consumidor: 3766 -> nao primo
+Consumidor: 3813 -> nao primo
+Consumidor: 3854 -> nao primo
+Consumidor: 3946 -> nao primo
+Consumidor: 3952 -> nao primo
+Consumidor: 3959 -> nao primo
+Consumidor: 4022 -> nao primo
+Consumidor: 4040 -> nao primo
+Consumidor: 4047 -> nao primo
+Consumidor: 4139 -> primo
+Consumidor: 4200 -> nao primo
+Consumidor: 4247 -> nao primo
+Consumidor: 4302 -> nao primo
+Consumidor: 4308 -> nao primo
+Consumidor: 4355 -> nao primo
+Consumidor: 4414 -> nao primo
+Consumidor: 4491 -> nao primo
+Consumidor: 4515 -> nao primo
+Consumidor: 4537 -> nao primo
+Consumidor: 4549 -> primo
+Consumidor: 4630 -> nao primo
+Consumidor: 4725 -> nao primo
+Consumidor: 4825 -> nao primo
+Consumidor: 4869 -> nao primo
+Consumidor: 4878 -> nao primo
+Consumidor: 4977 -> nao primo
+Consumidor: 5025 -> nao primo
+Consumidor: 5125 -> nao primo
+Consumidor: 5214 -> nao primo
+Consumidor: 5261 -> primo
+Consumidor: 5266 -> nao primo
+Consumidor: 5350 -> nao primo
+Consumidor: 5371 -> nao primo
+Consumidor: 5397 -> nao primo
+Consumidor: 5410 -> nao primo
+Consumidor: 5454 -> nao primo
+Consumidor: 5545 -> nao primo
+Consumidor: 5588 -> nao primo
+Consumidor: 5682 -> nao primo
+Consumidor: 5782 -> nao primo
+Consumidor: 5837 -> nao primo
+Consumidor: 5860 -> nao primo
+Consumidor: 5905 -> nao primo
+Consumidor: 5936 -> nao primo
+Consumidor: 5994 -> nao primo
+Consumidor: 6093 -> nao primo
+Consumidor: 6183 -> nao primo
+Consumidor: 6232 -> nao primo
+Consumidor: 6274 -> nao primo
+Consumidor: 6370 -> nao primo
+Consumidor: 6417 -> nao primo
+Consumidor: 6457 -> nao primo
+Consumidor: 6541 -> nao primo
+Consumidor: 6606 -> nao primo
+Consumidor: 6706 -> nao primo
+Consumidor: 6791 -> primo
+Consumidor: 6822 -> nao primo
+Consumidor: 6837 -> nao primo
+Consumidor: 6923 -> nao primo
+Consumidor: 6996 -> nao primo
+Consumidor: 7028 -> nao primo
+Consumidor: 7040 -> nao primo
+Consumidor: 7115 -> nao primo
+Consumidor: 7174 -> nao primo
+Consumidor: 7191 -> nao primo
+Consumidor: 7208 -> nao primo
+Consumidor: 7248 -> nao primo
+Consumidor: 7251 -> nao primo
+Consumidor: 7285 -> nao primo
+Consumidor: 7362 -> nao primo
+Consumidor: 7448 -> nao primo
+Consumidor: 7534 -> nao primo
+Consumidor: 7568 -> nao primo
+Consumidor: 7662 -> nao primo
+Consumidor: 7761 -> nao primo
+Consumidor: 7808 -> nao primo
+Consumidor: 7906 -> nao primo
+Consumidor: 7961 -> nao primo
+Consumidor: 8010 -> nao primo
+Consumidor: 8060 -> nao primo
+Consumidor: 8068 -> nao primo
+Consumidor: 8139 -> nao primo
+Consumidor: 8162 -> nao primo
+Consumidor: 8251 -> nao primo
+Consumidor: 8272 -> nao primo
+Consumidor: 8326 -> nao primo
+Consumidor: 8380 -> nao primo
+Consumidor: 8423 -> primo
+Consumidor: 8472 -> nao primo
+Consumidor: 8541 -> nao primo
+Consumidor: 8582 -> nao primo
+Consumidor: 8613 -> nao primo
+Consumidor: 8651 -> nao primo
+Consumidor: 8718 -> nao primo
+Consumidor: 8774 -> nao primo
+Consumidor: 8809 -> nao primo
+Consumidor: 8892 -> nao primo
+Consumidor: 8967 -> nao primo
+Consumidor: 8975 -> nao primo
+Consumidor: 9013 -> primo
+Consumidor: 9075 -> nao primo
+Consumidor: 9147 -> nao primo
+Consumidor: 9218 -> nao primo
+Consumidor: 9287 -> nao primo
+Consumidor: 9383 -> nao primo
+Consumidor: 9402 -> nao primo
+Consumidor: 9484 -> nao primo
+Consumidor: 9553 -> nao primo
+Consumidor: 9571 -> nao primo
+Consumidor: 9599 -> nao primo
+Consumidor: 9673 -> nao primo
+Consumidor: 9686 -> nao primo
+Consumidor: 9753 -> nao primo
+Consumidor: 9842 -> nao primo
+Consumidor: 9865 -> nao primo
+Consumidor: 9957 -> nao primo
+Consumidor: 10041 -> nao primo
+Consumidor: 10125 -> nao primo
+Consumidor: 10161 -> nao primo
+Consumidor: 10198 -> nao primo
+Consumidor: 10275 -> nao primo
+Consumidor: 10318 -> nao primo
+Consumidor: 10321 -> primo
+Consumidor: 10396 -> nao primo
+Consumidor: 10437 -> nao primo
+Consumidor: 10446 -> nao primo
+Consumidor: 10525 -> nao primo
+Consumidor: 10527 -> nao primo
+Consumidor: 10593 -> nao primo
+Consumidor: 10641 -> nao primo
+Consumidor: 10691 -> primo
+Consumidor: 10791 -> nao primo
+Consumidor: 10844 -> nao primo
+Consumidor: 10927 -> nao primo
+Consumidor: 10987 -> primo
+Consumidor: 11087 -> primo
+Consumidor: 11173 -> primo
+Consumidor: 11246 -> nao primo
+Consumidor: 11313 -> nao primo
+Consumidor: 11322 -> nao primo
+Consumidor: 11387 -> nao primo
+Consumidor: 11410 -> nao primo
+Consumidor: 11504 -> nao primo
+Consumidor: 11590 -> nao primo
+Consumidor: 11657 -> primo
+Consumidor: 11672 -> nao primo
+Consumidor: 11715 -> nao primo
+Consumidor: 11802 -> nao primo
+Consumidor: 11891 -> nao primo
+Consumidor: 11945 -> nao primo
+Consumidor: 11959 -> primo
+Consumidor: 11998 -> nao primo
+Consumidor: 12047 -> nao primo
+Consumidor: 12113 -> primo
+Consumidor: 12122 -> nao primo
+Consumidor: 12186 -> nao primo
+Consumidor: 12210 -> nao primo
+Consumidor: 12234 -> nao primo
+Consumidor: 12320 -> nao primo
+Consumidor: 12368 -> nao primo
+Consumidor: 12466 -> nao primo
+Consumidor: 12497 -> primo
+Consumidor: 12502 -> nao primo
+Consumidor: 12540 -> nao primo
+Consumidor: 12575 -> nao primo
+Consumidor: 12625 -> nao primo
+Consumidor: 12631 -> nao primo
+Consumidor: 12646 -> nao primo
+Consumidor: 12700 -> nao primo
+Consumidor: 12795 -> nao primo
+Consumidor: 12861 -> nao primo
+Consumidor: 12870 -> nao primo
+Consumidor: 12907 -> primo
+Consumidor: 12947 -> nao primo
+Consumidor: 12979 -> primo
+Consumidor: 13057 -> nao primo
+Consumidor: 13130 -> nao primo
+Consumidor: 13161 -> nao primo
+Consumidor: 13191 -> nao primo
+Consumidor: 13277 -> nao primo
+Consumidor: 13305 -> nao primo
+Consumidor: 13317 -> nao primo
+Consumidor: 13347 -> nao primo
+Consumidor: 13441 -> primo
+Consumidor: 13470 -> nao primo
+Consumidor: 13496 -> nao primo
+Consumidor: 13530 -> nao primo
+Consumidor: 13552 -> nao primo
+Consumidor: 13595 -> nao primo
+Consumidor: 13624 -> nao primo
+Consumidor: 13666 -> nao primo
+Consumidor: 13758 -> nao primo
+Consumidor: 13821 -> nao primo
+Consumidor: 13903 -> primo
+Consumidor: 13958 -> nao primo
+Consumidor: 13981 -> nao primo
+Consumidor: 14015 -> nao primo
+Consumidor: 14092 -> nao primo
+Consumidor: 14161 -> nao primo
+Consumidor: 14256 -> nao primo
+Consumidor: 14310 -> nao primo
+Consumidor: 14345 -> nao primo
+Consumidor: 14395 -> nao primo
+Consumidor: 14483 -> nao primo
+Consumidor: 14541 -> nao primo
+Consumidor: 14596 -> nao primo
+Consumidor: 14637 -> nao primo
+Consumidor: 14725 -> nao primo
+Consumidor: 14781 -> nao primo
+Consumidor: 14835 -> nao primo
+Consumidor: 14924 -> nao primo
+Consumidor: 14996 -> nao primo
+Consumidor: 15086 -> nao primo
+Consumidor: 15136 -> nao primo
+Consumidor: 15194 -> nao primo
+Consumidor: 15267 -> nao primo
+Consumidor: 15294 -> nao primo
+Consumidor: 15317 -> nao primo
+Consumidor: 15381 -> nao primo
+Consumidor: 15419 -> nao primo
+Consumidor: 15453 -> nao primo
+Consumidor: 15545 -> nao primo
+Consumidor: 15579 -> nao primo
+Consumidor: 15598 -> nao primo
+Consumidor: 15663 -> nao primo
+Consumidor: 15738 -> nao primo
+Consumidor: 15799 -> nao primo
+Consumidor: 15807 -> nao primo
+Consumidor: 15859 -> primo
+Consumidor: 15934 -> nao primo
+Consumidor: 15963 -> nao primo
+Consumidor: 16014 -> nao primo
+Consumidor: 16047 -> nao primo
+Consumidor: 16102 -> nao primo
+Consumidor: 16106 -> nao primo
+Consumidor: 16145 -> nao primo
+Consumidor: 16239 -> nao primo
+Consumidor: 16243 -> nao primo
+Consumidor: 16312 -> nao primo
+Consumidor: 16329 -> nao primo
+Consumidor: 16333 -> primo
+Consumidor: 16353 -> nao primo
+Consumidor: 16365 -> nao primo
+Consumidor: 16450 -> nao primo
+Consumidor: 16512 -> nao primo
+Consumidor: 16555 -> nao primo
+Consumidor: 16646 -> nao primo
+Consumidor: 16714 -> nao primo
+Consumidor: 16771 -> nao primo
+Consumidor: 16812 -> nao primo
+Consumidor: 16904 -> nao primo
+Consumidor: 16916 -> nao primo
+Consumidor: 16922 -> nao primo
+Consumidor: 17022 -> nao primo
+Consumidor: 17098 -> nao primo
+Consumidor: 17142 -> nao primo
+Consumidor: 17227 -> nao primo
+Consumidor: 17307 -> nao primo
+Consumidor: 17366 -> nao primo
+Consumidor: 17378 -> nao primo
+Consumidor: 17474 -> nao primo
+Consumidor: 17556 -> nao primo
+Consumidor: 17601 -> nao primo
+Consumidor: 17689 -> nao primo
+Consumidor: 17700 -> nao primo
+Consumidor: 17729 -> primo
+Consumidor: 17757 -> nao primo
+Consumidor: 17786 -> nao primo
+Consumidor: 17829 -> nao primo
+Consumidor: 17888 -> nao primo
+Consumidor: 17984 -> nao primo
+Consumidor: 18000 -> nao primo
+Consumidor: 18089 -> primo
+Consumidor: 18105 -> nao primo
+Consumidor: 18175 -> nao primo
+Consumidor: 18181 -> primo
+Consumidor: 18216 -> nao primo
+Consumidor: 18229 -> primo
+Consumidor: 18253 -> primo
+Consumidor: 18257 -> primo
+Consumidor: 18286 -> nao primo
+Consumidor: 18370 -> nao primo
+Consumidor: 18452 -> nao primo
+Consumidor: 18523 -> primo
+Consumidor: 18541 -> primo
+Consumidor: 18588 -> nao primo
+Consumidor: 18645 -> nao primo
+Consumidor: 18676 -> nao primo
+Consumidor: 18678 -> nao primo
+Consumidor: 18705 -> nao primo
+Consumidor: 18765 -> nao primo
+Consumidor: 18800 -> nao primo
+Consumidor: 18814 -> nao primo
+Consumidor: 18891 -> nao primo
+Consumidor: 18941 -> nao primo
+Consumidor: 19007 -> nao primo
+Consumidor: 19076 -> nao primo
+Consumidor: 19147 -> nao primo
+Consumidor: 19201 -> nao primo
+Consumidor: 19224 -> nao primo
+Consumidor: 19252 -> nao primo
+Consumidor: 19303 -> nao primo
+Consumidor: 19324 -> nao primo
+Consumidor: 19362 -> nao primo
+Consumidor: 19390 -> nao primo
+Consumidor: 19422 -> nao primo
+Consumidor: 19486 -> nao primo
+Consumidor: 19536 -> nao primo
+Consumidor: 19540 -> nao primo
+Consumidor: 19546 -> nao primo
+Consumidor: 19596 -> nao primo
+Consumidor: 19673 -> nao primo
+Consumidor: 19730 -> nao primo
+Consumidor: 19770 -> nao primo
+Consumidor: 19799 -> nao primo
+Consumidor: 19874 -> nao primo
+Consumidor: 19880 -> nao primo
+Consumidor: 19980 -> nao primo
+Consumidor: 20045 -> nao primo
+Consumidor: 20090 -> nao primo
+Consumidor: 20138 -> nao primo
+Consumidor: 20179 -> nao primo
+Consumidor: 20252 -> nao primo
+Consumidor: 20278 -> nao primo
+Consumidor: 20288 -> nao primo
+Consumidor: 20387 -> nao primo
+Consumidor: 20410 -> nao primo
+Consumidor: 20477 -> primo
+Consumidor: 20478 -> nao primo
+Consumidor: 20484 -> nao primo
+Consumidor: 20493 -> nao primo
+Consumidor: 20584 -> nao primo
+Consumidor: 20677 -> nao primo
+Consumidor: 20687 -> nao primo
+Consumidor: 20756 -> nao primo
+Consumidor: 20818 -> nao primo
+Consumidor: 20833 -> nao primo
+Consumidor: 20888 -> nao primo
+Consumidor: 20930 -> nao primo
+Consumidor: 20932 -> nao primo
+Consumidor: 20986 -> nao primo
+Consumidor: 21058 -> nao primo
+Consumidor: 21151 -> nao primo
+Consumidor: 21229 -> nao primo
+Consumidor: 21258 -> nao primo
+Consumidor: 21290 -> nao primo
+Consumidor: 21316 -> nao primo
+Consumidor: 21365 -> nao primo
+Consumidor: 21439 -> nao primo
+Consumidor: 21458 -> nao primo
+Consumidor: 21493 -> primo
+Consumidor: 21518 -> nao primo
+Consumidor: 21573 -> nao primo
+Consumidor: 21616 -> nao primo
+Consumidor: 21626 -> nao primo
+Consumidor: 21663 -> nao primo
+Consumidor: 21723 -> nao primo
+Consumidor: 21780 -> nao primo
+Consumidor: 21853 -> nao primo
+Consumidor: 21902 -> nao primo
+Consumidor: 21939 -> nao primo
+Consumidor: 21962 -> nao primo
+Consumidor: 22012 -> nao primo
+Consumidor: 22089 -> nao primo
+Consumidor: 22099 -> nao primo
+Consumidor: 22134 -> nao primo
+Consumidor: 22177 -> nao primo
+Consumidor: 22209 -> nao primo
+Consumidor: 22301 -> nao primo
+Consumidor: 22346 -> nao primo
+Consumidor: 22446 -> nao primo
+Consumidor: 22519 -> nao primo
+Consumidor: 22569 -> nao primo
+Consumidor: 22626 -> nao primo
+Consumidor: 22667 -> nao primo
+Consumidor: 22698 -> nao primo
+Consumidor: 22725 -> nao primo
+Consumidor: 22747 -> nao primo
+Consumidor: 22832 -> nao primo
+Consumidor: 22860 -> nao primo
+Consumidor: 22942 -> nao primo
+Consumidor: 22993 -> primo
+Consumidor: 23053 -> primo
+Consumidor: 23113 -> nao primo
+Consumidor: 23116 -> nao primo
+Consumidor: 23179 -> nao primo
+Consumidor: 23233 -> nao primo
+Consumidor: 23295 -> nao primo
+Consumidor: 23316 -> nao primo
+Consumidor: 23352 -> nao primo
+Consumidor: 23436 -> nao primo
+Consumidor: 23508 -> nao primo
+Consumidor: 23528 -> nao primo
+Consumidor: 23596 -> nao primo
+Consumidor: 23648 -> nao primo
+Consumidor: 23716 -> nao primo
+Consumidor: 23791 -> nao primo
+Consumidor: 23872 -> nao primo
+Consumidor: 23941 -> nao primo
+Consumidor: 23950 -> nao primo
+Consumidor: 24004 -> nao primo
+Consumidor: 24021 -> nao primo
+Consumidor: 24110 -> nao primo
+Consumidor: 24161 -> nao primo
+Consumidor: 24246 -> nao primo
+Consumidor: 24300 -> nao primo
+Consumidor: 24321 -> nao primo
+Consumidor: 24326 -> nao primo
+Consumidor: 24366 -> nao primo
+Consumidor: 24383 -> nao primo
+Consumidor: 24384 -> nao primo
+Consumidor: 24397 -> nao primo
+Consumidor: 24488 -> nao primo
+Consumidor: 24546 -> nao primo
+Consumidor: 24549 -> nao primo
+Consumidor: 24614 -> nao primo
+Consumidor: 24635 -> nao primo
+Consumidor: 24733 -> primo
+Consumidor: 24799 -> primo
+Consumidor: 24823 -> nao primo
+Consumidor: 24863 -> nao primo
+Consumidor: 24957 -> nao primo
+Consumidor: 25017 -> nao primo
+Consumidor: 25060 -> nao primo
+Consumidor: 25066 -> nao primo
+Consumidor: 25128 -> nao primo
+Consumidor: 25224 -> nao primo
+Consumidor: 25260 -> nao primo
+Consumidor: 25297 -> nao primo
+Consumidor: 25299 -> nao primo
+Consumidor: 25368 -> nao primo
+Consumidor: 25408 -> nao primo
+Consumidor: 25425 -> nao primo
+Consumidor: 25462 -> nao primo
+Consumidor: 25540 -> nao primo
+Consumidor: 25609 -> primo
+Consumidor: 25655 -> nao primo
+Consumidor: 25671 -> nao primo
+Consumidor: 25717 -> primo
+Consumidor: 25812 -> nao primo
+Consumidor: 25869 -> nao primo
+Consumidor: 25965 -> nao primo
+Consumidor: 26004 -> nao primo
+Consumidor: 26015 -> nao primo
+Consumidor: 26098 -> nao primo
+Consumidor: 26180 -> nao primo
+Consumidor: 26258 -> nao primo
+Consumidor: 26310 -> nao primo
+Consumidor: 26374 -> nao primo
+Consumidor: 26450 -> nao primo
+Consumidor: 26484 -> nao primo
+Consumidor: 26508 -> nao primo
+Consumidor: 26581 -> nao primo
+Consumidor: 26669 -> primo
+Consumidor: 26729 -> primo
+Consumidor: 26795 -> nao primo
+Consumidor: 26834 -> nao primo
+Consumidor: 26879 -> primo
+Consumidor: 26917 -> nao primo
+Consumidor: 26963 -> nao primo
+Consumidor: 27026 -> nao primo
+Consumidor: 27102 -> nao primo
+Consumidor: 27125 -> nao primo
+Consumidor: 27203 -> nao primo
+Consumidor: 27205 -> nao primo
+Consumidor: 27241 -> primo
+Consumidor: 27283 -> primo
+Consumidor: 27373 -> nao primo
+Consumidor: 27374 -> nao primo
+Consumidor: 27463 -> nao primo
+Consumidor: 27554 -> nao primo
+Consumidor: 27604 -> nao primo
+Consumidor: 27617 -> primo
+Consumidor: 27630 -> nao primo
+Consumidor: 27673 -> primo
+Consumidor: 27723 -> nao primo
+Consumidor: 27791 -> primo
+Consumidor: 27804 -> nao primo
+Consumidor: 27823 -> primo
+Consumidor: 27837 -> nao primo
+Consumidor: 27853 -> nao primo
+Consumidor: 27950 -> nao primo
+Consumidor: 27987 -> nao primo
+Consumidor: 27999 -> nao primo
+Consumidor: 28095 -> nao primo
+Consumidor: 28101 -> nao primo
+Consumidor: 28166 -> nao primo
+Consumidor: 28244 -> nao primo
+Consumidor: 28340 -> nao primo
+Consumidor: 28377 -> nao primo
+Consumidor: 28431 -> nao primo
+Consumidor: 28500 -> nao primo
+Consumidor: 28577 -> nao primo
+Consumidor: 28610 -> nao primo
+Consumidor: 28691 -> nao primo
+Consumidor: 28789 -> primo
+Consumidor: 28888 -> nao primo
+Consumidor: 28893 -> nao primo
+Consumidor: 28948 -> nao primo
+Consumidor: 29047 -> nao primo
+Consumidor: 29061 -> nao primo
+Consumidor: 29075 -> nao primo
+Consumidor: 29125 -> nao primo
+Consumidor: 29210 -> nao primo
+Consumidor: 29230 -> nao primo
+Consumidor: 29308 -> nao primo
+Consumidor: 29332 -> nao primo
+Consumidor: 29371 -> nao primo
+Consumidor: 29376 -> nao primo
+Consumidor: 29445 -> nao primo
+Consumidor: 29539 -> nao primo
+Consumidor: 29602 -> nao primo
+Consumidor: 29607 -> nao primo
+Consumidor: 29612 -> nao primo
+Consumidor: 29656 -> nao primo
+Consumidor: 29716 -> nao primo
+Consumidor: 29753 -> primo
+Consumidor: 29838 -> nao primo
+Consumidor: 29848 -> nao primo
+Consumidor: 29886 -> nao primo
+Consumidor: 29985 -> nao primo
+Consumidor: 29995 -> nao primo
+Consumidor: 30022 -> nao primo
+Consumidor: 30088 -> nao primo
+Consumidor: 30163 -> nao primo
+Consumidor: 30210 -> nao primo
+Consumidor: 30231 -> nao primo
+Consumidor: 30284 -> nao primo
+Consumidor: 30310 -> nao primo
+Consumidor: 30391 -> primo
+Consumidor: 30406 -> nao primo
+Consumidor: 30466 -> nao primo
+Consumidor: 30564 -> nao primo
+Consumidor: 30659 -> nao primo
+Consumidor: 30671 -> primo
+Consumidor: 30771 -> nao primo
+Consumidor: 30813 -> nao primo
+Consumidor: 30885 -> nao primo
+Consumidor: 30888 -> nao primo
+Consumidor: 30918 -> nao primo
+Consumidor: 30944 -> nao primo
+Consumidor: 30983 -> primo
+Consumidor: 31072 -> nao primo
+Consumidor: 31110 -> nao primo
+Consumidor: 31125 -> nao primo
+Consumidor: 31209 -> nao primo
+Consumidor: 31220 -> nao primo
+Consumidor: 31287 -> nao primo
+Consumidor: 31288 -> nao primo
+Consumidor: 31319 -> primo
+Consumidor: 31320 -> nao primo
+Consumidor: 31347 -> nao primo
+Consumidor: 31401 -> nao primo
+Consumidor: 31453 -> nao primo
+Consumidor: 31483 -> nao primo
+Consumidor: 31567 -> primo
+Consumidor: 31620 -> nao primo
+Consumidor: 31671 -> nao primo
+Consumidor: 31686 -> nao primo
+Consumidor: 31732 -> nao primo
+Consumidor: 31786 -> nao primo
+Consumidor: 31815 -> nao primo
+Consumidor: 31853 -> nao primo
+Consumidor: 31908 -> nao primo
+Consumidor: 31927 -> nao primo
+Consumidor: 32027 -> primo
+Consumidor: 32107 -> nao primo
+Consumidor: 32147 -> nao primo
+Consumidor: 32235 -> nao primo
+Consumidor: 32287 -> nao primo
+Consumidor: 32359 -> primo
+Consumidor: 32432 -> nao primo
+Consumidor: 32524 -> nao primo
+Consumidor: 32540 -> nao primo
+Consumidor: 32634 -> nao primo
+Consumidor: 32665 -> nao primo
+Consumidor: 32740 -> nao primo
+Consumidor: 32769 -> nao primo
+Consumidor: 32814 -> nao primo
+Consumidor: 32843 -> primo
+Consumidor: 32853 -> nao primo
+Consumidor: 32906 -> nao primo
+Consumidor: 32974 -> nao primo
+Consumidor: 33050 -> nao primo
+Consumidor: 33102 -> nao primo
+Consumidor: 33140 -> nao primo
+Consumidor: 33239 -> nao primo
+Consumidor: 33330 -> nao primo
+Consumidor: 33386 -> nao primo
+Consumidor: 33484 -> nao primo
+Consumidor: 33525 -> nao primo
+Consumidor: 33579 -> nao primo
+Consumidor: 33654 -> nao primo
+Consumidor: 33689 -> nao primo
+Consumidor: 33722 -> nao primo
+Consumidor: 33820 -> nao primo
+Consumidor: 33915 -> nao primo
+Consumidor: 33968 -> nao primo
+Consumidor: 34036 -> nao primo
+Consumidor: 34085 -> nao primo
+Consumidor: 34133 -> nao primo
+Consumidor: 34157 -> primo
+Consumidor: 34252 -> nao primo
+Consumidor: 34335 -> nao primo
+Consumidor: 34392 -> nao primo
+Consumidor: 34478 -> nao primo
+Consumidor: 34500 -> nao primo
+Consumidor: 34503 -> nao primo
+Consumidor: 34538 -> nao primo
+Consumidor: 34580 -> nao primo
+Consumidor: 34592 -> nao primo
+Consumidor: 34667 -> primo
+Consumidor: 34689 -> nao primo
+Consumidor: 34752 -> nao primo
+Consumidor: 34847 -> primo
+Consumidor: 34945 -> nao primo
+Consumidor: 35018 -> nao primo
+Consumidor: 35076 -> nao primo
+Consumidor: 35109 -> nao primo
+Consumidor: 35161 -> nao primo
+Consumidor: 35243 -> nao primo
+Consumidor: 35305 -> nao primo
+Consumidor: 35354 -> nao primo
+Consumidor: 35454 -> nao primo
+Consumidor: 35535 -> nao primo
+Consumidor: 35547 -> nao primo
+Consumidor: 35559 -> nao primo
+Consumidor: 35608 -> nao primo
+Consumidor: 35669 -> nao primo
+Consumidor: 35671 -> primo
+Consumidor: 35721 -> nao primo
+Consumidor: 35794 -> nao primo
+Consumidor: 35850 -> nao primo
+Consumidor: 35943 -> nao primo
+Consumidor: 36034 -> nao primo
+Consumidor: 36063 -> nao primo
+Consumidor: 36074 -> nao primo
+Consumidor: 36144 -> nao primo
+Consumidor: 36156 -> nao primo
+Consumidor: 36225 -> nao primo
+Consumidor: 36310 -> nao primo
+Consumidor: 36408 -> nao primo
+Consumidor: 36501 -> nao primo
+Consumidor: 36526 -> nao primo
+Consumidor: 36614 -> nao primo
+Consumidor: 36706 -> nao primo
+Consumidor: 36746 -> nao primo
+Consumidor: 36794 -> nao primo
+Consumidor: 36884 -> nao primo
+Consumidor: 36919 -> primo
+Consumidor: 36984 -> nao primo
+Consumidor: 37019 -> primo
+Consumidor: 37020 -> nao primo
+Consumidor: 37096 -> nao primo
+Consumidor: 37164 -> nao primo
+Consumidor: 37252 -> nao primo
+Consumidor: 37293 -> nao primo
+Consumidor: 37313 -> primo
+Consumidor: 37392 -> nao primo
+Consumidor: 37439 -> nao primo
+Consumidor: 37452 -> nao primo
+Consumidor: 37471 -> nao primo
+Consumidor: 37538 -> nao primo
+Consumidor: 37621 -> nao primo
+Consumidor: 37720 -> nao primo
+Consumidor: 37787 -> nao primo
+Consumidor: 37788 -> nao primo
+Consumidor: 37789 -> nao primo
+Consumidor: 37874 -> nao primo
+Consumidor: 37906 -> nao primo
+Consumidor: 37983 -> nao primo
+Consumidor: 38025 -> nao primo
+Consumidor: 38049 -> nao primo
+Consumidor: 38069 -> primo
+Consumidor: 38096 -> nao primo
+Consumidor: 38097 -> nao primo
+Consumidor: 38154 -> nao primo
+Consumidor: 38184 -> nao primo
+Consumidor: 38193 -> nao primo
+Consumidor: 38251 -> nao primo
+Consumidor: 38252 -> nao primo
+Consumidor: 38336 -> nao primo
+Consumidor: 38431 -> primo
+Consumidor: 38462 -> nao primo
+Consumidor: 38550 -> nao primo
+Consumidor: 38614 -> nao primo
+Consumidor: 38683 -> nao primo
+Consumidor: 38778 -> nao primo
+Consumidor: 38827 -> nao primo
+Consumidor: 38854 -> nao primo
+Consumidor: 38912 -> nao primo
+Consumidor: 38961 -> nao primo
+Consumidor: 38973 -> nao primo
+Consumidor: 39069 -> nao primo
+Consumidor: 39107 -> primo
+Consumidor: 39203 -> nao primo
+Consumidor: 39292 -> nao primo
+Consumidor: 39294 -> nao primo
+Consumidor: 39386 -> nao primo
+Consumidor: 39409 -> primo
+Consumidor: 39420 -> nao primo
+Consumidor: 39432 -> nao primo
+Consumidor: 39461 -> primo
+Consumidor: 39502 -> nao primo
+Consumidor: 39562 -> nao primo
+Consumidor: 39600 -> nao primo
+Consumidor: 39700 -> nao primo
+Consumidor: 39754 -> nao primo
+Consumidor: 39817 -> nao primo
+Consumidor: 39825 -> nao primo
+Consumidor: 39836 -> nao primo
+Consumidor: 39849 -> nao primo
+Consumidor: 39881 -> nao primo
+Consumidor: 39956 -> nao primo
+Consumidor: 39986 -> nao primo
+Consumidor: 40022 -> nao primo
+Consumidor: 40081 -> nao primo
+Consumidor: 40139 -> nao primo
+Consumidor: 40144 -> nao primo
+Consumidor: 40168 -> nao primo
+Consumidor: 40191 -> nao primo
+Consumidor: 40280 -> nao primo
+Consumidor: 40300 -> nao primo
+Consumidor: 40341 -> nao primo
+Consumidor: 40389 -> nao primo
+Consumidor: 40425 -> nao primo
+Consumidor: 40438 -> nao primo
+Consumidor: 40477 -> nao primo
+Consumidor: 40520 -> nao primo
+Consumidor: 40598 -> nao primo
+Consumidor: 40676 -> nao primo
+Consumidor: 40678 -> nao primo
+Consumidor: 40756 -> nao primo
+Consumidor: 40758 -> nao primo
+Consumidor: 40766 -> nao primo
+Consumidor: 40840 -> nao primo
+Consumidor: 40866 -> nao primo
+Consumidor: 40912 -> nao primo
+Consumidor: 40929 -> nao primo
+Consumidor: 40962 -> nao primo
+Consumidor: 40990 -> nao primo
+Consumidor: 41000 -> nao primo
+Consumidor: 41025 -> nao primo
+Consumidor: 41122 -> nao primo
+Consumidor: 41180 -> nao primo
+Consumidor: 41234 -> nao primo
+Consumidor: 41281 -> primo
+Consumidor: 41372 -> nao primo
+Consumidor: 41387 -> primo
+Consumidor: 41421 -> nao primo
+Consumidor: 41453 -> primo
+Consumidor: 41477 -> nao primo
+Consumidor: 41507 -> primo
+Consumidor: 41585 -> nao primo
+Consumidor: 41642 -> nao primo
+Consumidor: 41704 -> nao primo
+Consumidor: 41791 -> nao primo
+Consumidor: 41852 -> nao primo
+Consumidor: 41884 -> nao primo
+Consumidor: 41961 -> nao primo
+Consumidor: 41976 -> nao primo
+Consumidor: 42055 -> nao primo
+Consumidor: 42083 -> primo
+Consumidor: 42125 -> nao primo
+Consumidor: 42189 -> nao primo
+Consumidor: 42231 -> nao primo
+Consumidor: 42236 -> nao primo
+Consumidor: 42322 -> nao primo
+Consumidor: 42371 -> nao primo
+Consumidor: 42445 -> nao primo
+Consumidor: 42463 -> primo
+Consumidor: 42475 -> nao primo
+Consumidor: 42530 -> nao primo
+Consumidor: 42625 -> nao primo
+Consumidor: 42685 -> nao primo
+Consumidor: 42726 -> nao primo
+Consumidor: 42801 -> nao primo
+Consumidor: 42888 -> nao primo
+Consumidor: 42966 -> nao primo
+Consumidor: 43001 -> nao primo
+Consumidor: 43100 -> nao primo
+Consumidor: 43147 -> nao primo
+Consumidor: 43165 -> nao primo
+Consumidor: 43263 -> nao primo
+Consumidor: 43277 -> nao primo
+Consumidor: 43299 -> nao primo
+Consumidor: 43378 -> nao primo
+Consumidor: 43476 -> nao primo
+Consumidor: 43544 -> nao primo
+Consumidor: 43633 -> primo
+Consumidor: 43650 -> nao primo
+Consumidor: 43658 -> nao primo
+Consumidor: 43705 -> nao primo
+Consumidor: 43742 -> nao primo
+Consumidor: 43827 -> nao primo
+Consumidor: 43923 -> nao primo
+Consumidor: 43930 -> nao primo
+Consumidor: 43978 -> nao primo
+Consumidor: 44007 -> nao primo
+Consumidor: 44068 -> nao primo
+Consumidor: 44128 -> nao primo
+Consumidor: 44224 -> nao primo
+Consumidor: 44234 -> nao primo
+Consumidor: 44273 -> primo
+Consumidor: 44373 -> nao primo
+Consumidor: 44426 -> nao primo
+Consumidor: 44526 -> nao primo
+Consumidor: 44579 -> primo
+Consumidor: 44591 -> nao primo
+Consumidor: 44635 -> nao primo
+Consumidor: 44685 -> nao primo
+Consumidor: 44773 -> primo
+Consumidor: 44803 -> nao primo
+Consumidor: 44878 -> nao primo
+Consumidor: 44948 -> nao primo
+Consumidor: 45023 -> nao primo
+Consumidor: 45115 -> nao primo
+Consumidor: 45128 -> nao primo
+Consumidor: 45200 -> nao primo
+Consumidor: 45257 -> nao primo
+Consumidor: 45340 -> nao primo
+Consumidor: 45434 -> nao primo
+Consumidor: 45520 -> nao primo
+Consumidor: 45572 -> nao primo
+Consumidor: 45622 -> nao primo
+Consumidor: 45678 -> nao primo
+Consumidor: 45689 -> nao primo
+Consumidor: 45737 -> primo
+Consumidor: 45775 -> nao primo
+Consumidor: 45858 -> nao primo
+Consumidor: 45925 -> nao primo
+Consumidor: 45994 -> nao primo
+Consumidor: 46035 -> nao primo
+Consumidor: 46121 -> nao primo
+Consumidor: 46203 -> nao primo
+Consumidor: 46264 -> nao primo
+Consumidor: 46303 -> nao primo
+Consumidor: 46341 -> nao primo
+Consumidor: 46413 -> nao primo
+Consumidor: 46502 -> nao primo
+Consumidor: 46565 -> nao primo
+Consumidor: 46583 -> nao primo
+Consumidor: 46676 -> nao primo
+Consumidor: 46771 -> primo
+Consumidor: 46857 -> nao primo
+Consumidor: 46878 -> nao primo
+Consumidor: 46939 -> nao primo
+Consumidor: 46941 -> nao primo
+Consumidor: 47023 -> nao primo
+Consumidor: 47114 -> nao primo
+Consumidor: 47155 -> nao primo
+Consumidor: 47234 -> nao primo
+Consumidor: 47254 -> nao primo
+Consumidor: 47328 -> nao primo
+Consumidor: 47364 -> nao primo
+Consumidor: 47443 -> nao primo
+Consumidor: 47503 -> nao primo
+Consumidor: 47571 -> nao primo
+Consumidor: 47622 -> nao primo
+Consumidor: 47646 -> nao primo
+Consumidor: 47711 -> primo
+Consumidor: 47804 -> nao primo
+Consumidor: 47844 -> nao primo
+Consumidor: 47889 -> nao primo
+Consumidor: 47913 -> nao primo
+Consumidor: 47983 -> nao primo
+Consumidor: 48049 -> primo
+Consumidor: 48075 -> nao primo
+Consumidor: 48099 -> nao primo
+Consumidor: 48111 -> nao primo
+Consumidor: 48201 -> nao primo
+Consumidor: 48264 -> nao primo
+Consumidor: 48346 -> nao primo
+Consumidor: 48376 -> nao primo
+Consumidor: 48436 -> nao primo
+Consumidor: 48504 -> nao primo
+Consumidor: 48563 -> primo
+Consumidor: 48600 -> nao primo
+Consumidor: 48667 -> nao primo
+Consumidor: 48750 -> nao primo
+Consumidor: 48832 -> nao primo
+Consumidor: 48896 -> nao primo
+Consumidor: 48953 -> primo
+Consumidor: 49051 -> nao primo
+Consumidor: 49123 -> primo
+Consumidor: 49222 -> nao primo
+Consumidor: 49232 -> nao primo
+Consumidor: 49244 -> nao primo
+Consumidor: 49258 -> nao primo
+Consumidor: 49286 -> nao primo
+Consumidor: 49331 -> primo
+Consumidor: 49390 -> nao primo
+Consumidor: 49466 -> nao primo
+Consumidor: 49511 -> nao primo
+Consumidor: 49543 -> nao primo
+Consumidor: 49621 -> nao primo
+Consumidor: 49656 -> nao primo
+Consumidor: 49729 -> nao primo
+Consumidor: 49730 -> nao primo
+Consumidor: 49769 -> nao primo
+Consumidor: 49801 -> primo
+Consumidor: 49882 -> nao primo
+Consumidor: 49889 -> nao primo
+Consumidor: 49941 -> nao primo
+Consumidor: 49961 -> nao primo
+Consumidor: 50035 -> nao primo
+Consumidor: 50041 -> nao primo
+Consumidor: 50047 -> primo
+Consumidor: 50070 -> nao primo
+Consumidor: 50072 -> nao primo
+Consumidor: 50111 -> primo
+Consumidor: 50186 -> nao primo
+Consumidor: 50241 -> nao primo
+Consumidor: 50288 -> nao primo
+Consumidor: 50381 -> nao primo
+Consumidor: 50456 -> nao primo
+Consumidor: 50482 -> nao primo
+Consumidor: 50549 -> primo
+Consumidor: 50603 -> nao primo
+Consumidor: 50696 -> nao primo
+Consumidor: 50770 -> nao primo
+Consumidor: 50864 -> nao primo
+Consumidor: 50952 -> nao primo
+Consumidor: 50978 -> nao primo
+Consumidor: 50982 -> nao primo
+Consumidor: 51004 -> nao primo
+Consumidor: 51035 -> nao primo
+Tempo total de execucao: 0.000577 s

@@ -1,0 +1,11 @@
+Consumidor: 33 -> nao primo
+Consumidor: 110 -> nao primo
+Consumidor: 144 -> nao primo
+Consumidor: 173 -> primo
+Consumidor: 221 -> nao primo
+Consumidor: 309 -> nao primo
+Consumidor: 367 -> primo
+Consumidor: 451 -> nao primo
+Consumidor: 538 -> nao primo
+Consumidor: 612 -> nao primo
+Tempo total de execucao: 0.000286 s
