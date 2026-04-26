@@ -27,7 +27,7 @@
 
 int consumer_loop(int read_fd);
 
-/* Garantir escrita completa de cada mensagem fixa no pipe. */
+/* Escreve todos os bytes da mensagem fixa no pipe. */
 static ssize_t write_full(int fd, const void *buf, size_t count) {
     const char *p = (const char *)buf;
     size_t total = 0;
@@ -58,7 +58,7 @@ static double elapsed_seconds(const struct timespec *start, const struct timespe
     return (double)sec + (double)nsec / 1000000000.0;
 }
 
-/* Serializa cada numero em exatamente 20 bytes (19 digitos + '\0'). */
+/* Serializa cada numero em uma mensagem fixa de 20 bytes. */
 static int send_number(int fd, unsigned long long value) {
     char msg[MSG_SIZE];
     int rc = snprintf(msg, sizeof(msg), "%019llu", value);
@@ -117,7 +117,7 @@ int main(int argc, char *argv[]) {
     unsigned long long atual = 1ULL;
     unsigned int seed = (unsigned int)(time(NULL) ^ (unsigned int)getpid());
 
-    /* O protocolo usa 0 como sentinela, entao envia N0=1 quando quantidade > 0. */
+    /* Envia N0 = 1 antes da geracao dos demais valores. */
     if (quantidade > 0ULL) {
         if (send_number(pipefd[1], atual) < 0) {
             perror("write");
@@ -127,6 +127,7 @@ int main(int argc, char *argv[]) {
         }
     }
 
+    /* Gera os demais valores da sequencia usando deltas em [1, 100]. */
     for (unsigned long long i = 1ULL; i < quantidade; ++i) {
         unsigned long long delta = (unsigned long long)((rand_r(&seed) % DELTA_MAX) + DELTA_MIN);
 

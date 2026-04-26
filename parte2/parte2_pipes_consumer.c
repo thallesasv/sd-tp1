@@ -7,7 +7,7 @@
 
 #define MSG_SIZE 20
 
-/* Le exatamente count bytes, lidando com interrupcoes e EOF parcial. */
+/* Le exatamente count bytes, tratando interrupcoes e EOF parcial. */
 static ssize_t read_full(int fd, void *buf, size_t count) {
     char *p = (char *)buf;
     size_t total = 0;
@@ -29,7 +29,7 @@ static ssize_t read_full(int fd, void *buf, size_t count) {
     return (ssize_t)total;
 }
 
-/* Recebe uma mensagem de 20 bytes e decodifica para unsigned long long. */
+/* Recebe uma mensagem fixa de 20 bytes e converte para inteiro. */
 static int receive_number(int fd, unsigned long long *value) {
     char msg[MSG_SIZE];
     ssize_t n = read_full(fd, msg, sizeof(msg));
