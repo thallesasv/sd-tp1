@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Parte 2 - Pipes
+/parte2/parte2_pipes_split
+/parte2/parte2_pipes
+/parte2/*.o

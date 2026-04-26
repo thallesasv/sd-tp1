@@ -9,10 +9,16 @@ Este diretório concentra a implementação da Parte 2 e os logs de teste gerado
 
 ## Diretório de trabalho
 
-Execute os comandos dentro desta pasta:
+Defina o caminho raiz do projeto em uma variável genérica e execute os comandos a partir dela:
 
 ```bash
-cd "/home/thallesasv/Área de trabalho/SD/sd-tp1/parte2"
+export PROJECT_ROOT=/path/to/sd-tp1
+```
+
+Em seguida, entre na pasta da Parte 2:
+
+```bash
+cd "$PROJECT_ROOT/parte2"
 ```
 
 ## Compilação
